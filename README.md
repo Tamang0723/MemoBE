@@ -1,6 +1,7 @@
 <p>これは新規登録する画面です。ここ科目じたい新規登録することができます。</p>
 <h1>register</h1>
-![register](https://github.com/user-attachments/assets/48f48e82-51f6-4acd-bf59-b0d5a489b52f)
+![スクリーンショット 2025-04-30 190838](https://github.com/user-attachments/assets/f77adc7d-24f5-4a77-8227-369bd9a7fb29)
+
 <p>ここは登録したメールとパスワードをいれてloginボタンを　押したら自分が　登録した科目の画面に行けます(ビジネスだたらビジネスのところ、観光だたら観光のところ、介護だたら介護のところ)。</p>
 <h2>login</h2>
 ![login](https://github.com/user-attachments/assets/d3066432-54ab-46ad-9dd7-343c26d307ce)
