@@ -1,11 +1,12 @@
-<p>これは新規登録する画面です。ここ科目じたい新規登録することができます。</p>
-<h1>register</h1>
-![スクリーンショット 2025-04-30 190838](./images/register.png)
+
+![register (2)](https://github.com/user-attachments/assets/5224e8ec-c057-4220-95a4-641cc94e89ef)
+<h1>Register</h1>
 
 
-<p>ここは登録したメールとパスワードをいれてloginボタンを　押したら自分が　登録した科目の画面に行けます(ビジネスだたらビジネスのところ、観光だたら観光のところ、介護だたら介護のところ)。</p>
-<h2>login</h2>
 ![login](https://github.com/user-attachments/assets/d3066432-54ab-46ad-9dd7-343c26d307ce)
+<h2>login</h2>
+<p>ここは登録したメールとパスワードをいれてloginボタンを　押したら自分が　登録した科目の画面に行けます(ビジネスだたらビジネスのところ、観光だたら観光のところ、介護だたら介護のところ)。</p>
+
 <P>これは　ビジネスコ－スの　画面です。ビジネスコ－スでも色々な科目があるので　ここで　どんな科目の　メモをするか選んでメモをすることができます。</P>
 <h3>Business Course</h3>
 ![スクリーンショット 2025-04-30 191220](https://github.com/user-attachments/assets/1ff54769-f78c-4ecb-8d2c-c3adf6780d43)
